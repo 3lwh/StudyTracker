@@ -93,15 +93,3 @@ Roadmap & Future Enhancements
 
 License
 Distributed under the MIT License.
-
-
----
-
-### Update GitHub
-
-Save the file (`Ctrl + S`), then run:
-
-```bash
-git add README.md
-git commit -m "docs: expand README with API reference and roadmap"
-git push origin main
